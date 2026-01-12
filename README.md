@@ -30,7 +30,7 @@ Introducir los fundamentos y la aplicación práctica del Machine Learning super
 - Evaluar modelos mediante métricas apropiadas.
 - Interpretar resultados y justificar decisiones técnicas.
 
---
+---
 
 ## 🛠️ Requisitos técnicos
 
