@@ -13,7 +13,7 @@ Regression Learner de MATLAB.
 ## Dataset
 Energy Efficiency Dataset (Heating Load - Y1)
 
-## Nota sobre desempeño
+## ⚠️ Nota sobre desempeño:
 Para demostraciones en vivo se utiliza una versión reducida del dataset
 activando USE_DEMO_DATA = true.
 
