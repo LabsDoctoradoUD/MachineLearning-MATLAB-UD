@@ -1,7 +1,7 @@
 %% EJEMPLO 1 - Exploración del problema de Machine Learning
 % Dataset: Credit Card Fraud
 % Objetivo: Identificar el tipo de problema y entender los datos
-% Este script es DEMOSTRATIVO (docente)
+
 
 clear; clc; close all;
 
@@ -46,9 +46,10 @@ xlabel('Clase')
 ylabel('Número de observaciones')
 grid on;
 
-%% 7. Discusión guiada (para el docente)
+%% 7. Discusión guiada 
 disp('--- DISCUSIÓN GUIADA ---');
 disp('1. ¿Este es un problema de clasificación o regresión?');
 disp('2. ¿Las clases están balanceadas?');
 disp('3. ¿Es suficiente la accuracy como métrica?');
 disp('4. ¿Qué dificultades anticipamos para entrenar un modelo?');
+
