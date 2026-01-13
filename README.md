@@ -8,7 +8,7 @@ Universidad Distrital Francisco José de Caldas
 
 ## 📌 Descripción general
 
-Este repositorio contiene el material práctico del **Taller de Machine Learning con MATLAB**, con el cual podras interactuar y practicar ademas de tener 
+Este repositorio contiene el material práctico del **Taller de Machine Learning con MATLAB**, con el cual podras interactuar y practicar ademas de afianzar los conocimientos adquiridos.
 ---
 
 ## 🎯 ¿Cual será el enfoque principal?
