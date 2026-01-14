@@ -1,32 +1,28 @@
-# Ejercicio 3 — Regresión (Energy Efficiency)
+# Ejercicio 3 — Regresión (Concrete Compressive Strength)
 
-En este ejercicio se aborda un problema de regresión utilizando el
-dataset Energy Efficiency y la herramienta gráfica Regression Learner
-de MATLAB.
-
-El objetivo es predecir la carga térmica de un edificio a partir de
-sus características físicas.
+En este ejercicio se trabaja un problema de regresión utilizando
+el dataset de resistencia a la compresión del concreto y la
+herramienta gráfica Regression Learner de MATLAB.
 
 ---
 
 ## Dataset
 
-Energy Efficiency Dataset  
+Concrete Compressive Strength Dataset  
 Fuente: UCI Machine Learning Repository
 
-- Observaciones: 768
+- Observaciones: 1030
 - Variables predictoras: 8
-- Variable objetivo: Heating Load (Y1)
+- Variable objetivo: Resistencia a la compresión (MPa)
 
 ---
 
 ## Objetivos del ejercicio
 
-- Comprender problemas de regresión
-- Usar Regression Learner
+- Aplicar Regression Learner a un dataset nuevo
+- Comparar modelos de regresión
 - Interpretar RMSE y R²
-- Analizar gráficos de predicción
-- Comparar distintos modelos
+- Seleccionar el mejor modelo según métricas
 
 ---
 
@@ -40,7 +36,7 @@ Fuente: UCI Machine Learning Repository
 
 ## Actividades
 
-1. Entrenar al menos tres modelos de regresión
+1. Entrenar al menos tres modelos
 2. Comparar RMSE y R²
-3. Analizar la gráfica True vs Predicted
-4. Discutir cuál modelo generaliza mejor
+3. Analizar gráfica True vs Predicted
+4. Justificar la selección del modelo
