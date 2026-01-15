@@ -35,4 +35,24 @@ Antes de iniciar, asegúrate de contar con:
 - Conocimientos básicos de MATLAB (scripts, variables, tablas)
 
 ---
+## ⚠️ Nota Importante 
+
+Los ejemplos y ejercicios incluidos en este repositorio tienen un propósito exclusivamente educativo.
+Están diseñados para ilustrar conceptos y facilitar el aprendizaje, pero no deben considerarse como la única forma válida o definitiva de resolver un problema.
+
+El entorno de MATLAB admite múltiples enfoques y soluciones, por lo que estos ejemplos deben tomarse como un punto de partida.
+Te animo a complementar esta información con:
+
+Documentación oficial de MATLAB.
+Fuentes académicas y especializadas.
+
+---
+## 📼Links de interes:
+
+- https://matlabacademy.mathworks.com/es/details/machine-learning-onramp/machinelearning
+- https://matlabacademy.mathworks.com/details/machine-learning-techniques-in-matlab/lpmlmlt
+
+
+
+
 
