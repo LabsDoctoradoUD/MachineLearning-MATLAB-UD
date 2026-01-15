@@ -30,7 +30,7 @@ Introduciremos los fundamentos y la aplicación práctica del Machine Learning s
 
 Antes de iniciar, asegúrate de contar con:
 
-- MATLAB R2022b o superior (recomendado)
+- MATLAB R2024b o superior (recomendado)
 - Statistics and Machine Learning Toolbox
 - Conocimientos básicos de MATLAB (scripts, variables, tablas)
 
