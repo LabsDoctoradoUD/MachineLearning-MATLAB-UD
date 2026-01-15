@@ -1,5 +1,29 @@
-Los datos se relacionan con campañas de marketing directo de una institución bancaria portuguesa.
-Las campañas de marketing se basaron en llamadas telefónicas. 
-A menudo, se requería más de un contacto con el mismo cliente para determinar si el producto (depósito a plazo fijo) estaría suscrito ('sí') o no ('no'). 
-Hay cuatro conjuntos de datos: 1) bank-additional-full.csv con todos los ejemplos (41188) y 20 entradas, ordenados por fecha (de mayo de 2008 a noviembre de 2010), muy similar a los datos analizados en [Moro et al., 2014]; 2) bank-additional.csv con el 10% de los ejemplos (4119), seleccionados aleatoriamente de 1), y 20 entradas; 3) bank-full.csv con todos los ejemplos y 17 entradas, ordenados por fecha (versión anterior de este conjunto de datos con menos entradas). 4) bank.csv con el 10% de los ejemplos y 17 entradas, seleccionadas aleatoriamente de 3 (versión anterior de este conjunto de datos con menos entradas). Los conjuntos de datos más pequeños se proporcionan para probar algoritmos de aprendizaje automático con mayor exigencia computacional (p. ej., SVM).
-El objetivo de la clasificación es predecir si el cliente suscribirá (sí/no) un depósito a plazo (variable y).
+# Características del conjunto de datos
+Multivariante
+
+# Tipo de característica
+Real
+
+# Instancias
+1030
+
+# Características
+8
+
+# Detalle de la BD
+
+El hormigón es el material más importante en la ingeniería civil. Su resistencia a la compresión es una función altamente no lineal de la edad y los componentes.
+Este conjunto de datos corresponde a muestras de mezclas de concreto y sus propiedades físicas, cuyo objetivo es analizar cómo la composición del material y el tiempo de curado influyen en su resistencia a la compresión.
+
+El dataset incluye variables relacionadas con los componentes del concreto (en kg por metro cúbico), tales como:
+
+- Cemento
+- Escoria de alto horno
+- Ceniza volante
+- Agua
+- Superplastificante
+- Agregado grueso
+- Agregado fino
+- Edad del concreto (en días)
+
+La variable objetivo es la resistencia a la compresión del concreto, medida en megapascales (MPa).
